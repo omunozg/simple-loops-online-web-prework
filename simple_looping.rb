@@ -27,7 +27,7 @@ def while_iterator(number_of_times)
   counter = 1
   while counter >= number_of_times do
    puts(phrase)
-   counter += 1 
+   counter = counter + 1 
 end
 end
 

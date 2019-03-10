@@ -50,7 +50,7 @@ def for_iterator(number_of_times)
   
   phrase = "Welcome to Flatiron School's Web Development Course!"
   narray = (1..number_of_times)
-  for phrase in narray do
+  for caca in narray do
     puts(phrase)
   end
 end
